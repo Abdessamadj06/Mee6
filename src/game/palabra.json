@@ -4,6 +4,10 @@
         "response": "COMIDA" 
     },
     {
+        "question": "Ordena la palabra: OVLEDIACD",
+        "response": "VELOCIDAD" 
+    },
+    {
         "question": "Ordena la palabra: CEHLEUP",
         "response": "PELUCHE" 
     },
